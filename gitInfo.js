@@ -54,7 +54,7 @@ const gitStatusDefinition = `git status displays the current state and informati
 
 const gitAddDefinition = `git add takes all new or edited files that aren't being tracked by git and slaps them into the staging area. essentially a save to the last commit made.`
 
-const gitAddCode = `git add .`
+const gitAddCode = `git add <fileName>.`
 
 //////////////////PROBLEM 7////////////////////
 /*
